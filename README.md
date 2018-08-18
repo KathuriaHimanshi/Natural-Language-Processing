@@ -1,4 +1,4 @@
 # Natural-Language-Processing
 
 
-Sentiment Analysis for Resturant Review: 2-way polarity (positive and negative) classification system for Resturant's Customer Feedback.
+Sentiment Analysis for customers: 2-way polarity (positive and negative) classification system of Customer's Feedback for a restraunt.
